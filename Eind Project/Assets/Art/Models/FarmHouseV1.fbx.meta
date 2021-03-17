@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: 28f8d46e3890f3a4faf5af7e39e0892e
+guid: a7ebea47016f36f41a6039fd08061c99
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabin_Door_Wall
+    second: {fileID: 2100000, guid: 0bd8d2b0de8d93749ae41f83b812c444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabin_Wall
+    second: {fileID: 2100000, guid: 5dc93eed475006a49b709c9e18ec4de2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -14,16 +24,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: LOG
     second: {fileID: 2100000, guid: 1e2a7e0d8465d3946bb3f7e3d62b62ec, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Log_Wall
-    second: {fileID: 2100000, guid: 58b8fbe36b47c894690ce5ef0808948d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Roof
-    second: {fileID: 2100000, guid: a6603844079ad0a4f8bd4911c9c429a4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
